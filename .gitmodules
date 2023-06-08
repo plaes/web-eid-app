@@ -3,4 +3,4 @@
 	url = ../libelectronic-id
 [submodule "src/mac/js"]
 	path = src/mac/js
-	url = ../web-eid-webextension
+	url = https://github.com/web-eid/web-eid-webextension
