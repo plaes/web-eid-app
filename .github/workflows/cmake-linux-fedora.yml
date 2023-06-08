@@ -10,7 +10,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: 'fedora:36'
+    container: 'fedora:38'
 
     steps:
       - name: Install Deps
